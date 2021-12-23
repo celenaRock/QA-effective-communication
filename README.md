@@ -1,5 +1,3 @@
-# QA-effective-communication
-
 # Effective_Communication
 
 ## Email One
@@ -24,7 +22,7 @@ Again, I’m very sorry we haven’t given you the employee management software 
 
 Sincerely,
 
-James Proctor
+Celena Rock
 
 ## Email Two:
 Hello, You all rock, we are users of employee management software. I would like to express how happy I and everyone on the team is with this application. We made the decision to switch your employee manager based on industry feedback in regard to this application. We are very pleased with the constant improvement to both the user experience and functionality of the application. Please continue the great work. 
@@ -38,7 +36,7 @@ Thank you very much for the kind words about Employee Management Software. We he
 
 Thank you again,
 
-James Proctor
+Celena Rock
 
 ## Scenario One:
 
@@ -58,7 +56,7 @@ I suspect we could invest in better testing suites and training, but I’d like 
 
 Very Respectfully,
 
-James
+Celena
 
 ## Scenario Two:
 Your company has recently made a switch and now everyone works from home. After a few days, you noticed individuals on the team are not very responsive to messages. The project is getting behind and the part you’re working on is blocked due to their lack of response. Current management has already made it a requirement for all employees to be “online” during hours recorded “on the clock” but many employees remain unresponsive. What could you do in this situation?
@@ -75,4 +73,4 @@ Can I get your help on this? If you have the time, I think either a Monday morni
 
 Very respectfully,
 
-James
+Celena
